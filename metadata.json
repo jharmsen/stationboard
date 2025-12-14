@@ -1,0 +1,5 @@
+{
+  "name": "SwissTransit Widget",
+  "description": "A modern, widget-style station board displaying real-time Swiss public transport departures using the OpenData.ch API.",
+  "requestFramePermissions": []
+}
