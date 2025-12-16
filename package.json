@@ -1,5 +1,6 @@
 {
   "name": "swisstransit-widget",
+  "homepage": "https://jharmsen.github.io/stationboard",
   "private": true,
   "version": "0.0.0",
   "type": "module",
